@@ -51,7 +51,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/netflip.git
+   git clone https://github.com/tamal78/netflip.git
    ```
 
 2. Navigate to the project directory:
