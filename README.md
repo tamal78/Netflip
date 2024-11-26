@@ -93,9 +93,9 @@ Ensure you have the following installed:
 
 ---
 
-## 📸 Admin Dashboard
+## 📸
 
-![Beatify Admin Dashboard](https://i.ibb.co/cCGXrV6/Screenshot-2024-11-26-140517.png)
+![Netlfip](https://i.ibb.co/cCGXrV6/Screenshot-2024-11-26-140517.png)
 
 ---
 
